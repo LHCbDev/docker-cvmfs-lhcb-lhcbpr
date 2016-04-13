@@ -1,0 +1,2 @@
+#!/usr/env/bin sh
+docker run -it --rm  --privileged hepsw/cvmfs-lhcb  bash
